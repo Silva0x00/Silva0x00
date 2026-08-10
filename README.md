@@ -59,9 +59,7 @@ Atualmente estou focado em construir uma base sólida em **desenvolvimento web e
 
 | Projeto | Descrição | Tecnologias |
 |:---:|:---|:---:|
-| **Projeto 1** | Descrição do projeto | HTML • CSS • JS |
-| **Projeto 2** | Descrição do projeto | Node.js • TypeScript |
-| **Projeto 3** | Descrição do projeto | JavaScript • API |
+| **NEXUSGG** | | HTML • CSS • JS |
 
 </div>
 
