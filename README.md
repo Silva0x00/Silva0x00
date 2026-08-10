@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Felipe!
 
-### 💻 Software Engineering Student • Full Stack Developer
+### 💻 Software Engineering Student • Aspiring Full Stack Developer
 
 <p>
   <a href="https://github.com/Silva0x00">
@@ -19,15 +19,15 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Eu sou **Felipe**, estudante de **Engenharia de Software** e apaixonado por tecnologia e desenvolvimento de software.
+Olá! Sou **Felipe**, estudante de Engenharia de Software e formado como Técnico em Manutenção e Suporte em Informática. Tenho experiência profissional em suporte técnico e atualmente estou direcionando meus estudos para desenvolvimento de software e desenvolvimento web.
 
-Atualmente estou focado em construir uma base sólida em **desenvolvimento web e Full Stack**, buscando transformar conhecimento teórico em projetos práticos.
+Busco transformar meus conhecimentos em projetos práticos, evoluindo continuamente minhas habilidades e construindo soluções eficientes.
 
 - 🎓 Estudante de Engenharia de Software
-- 💻 Foco em Desenvolvimento Web / Full Stack
-- 🌱 Atualmente estudando JavaScript, TypeScript e Node.js
-- 🚀 Interessado em criar projetos e aprender novas tecnologias
-- 🇧🇷 Brasil
+- 💻 Foco em Desenvolvimento Web
+- 🌱 Estudando HTML, CSS, JavaScript e Node.js
+- 🛠️ Experiência profissional em Suporte de TI
+- 🚀 Criando projetos para desenvolver minhas habilidades
 
 ---
 
@@ -36,13 +36,13 @@ Atualmente estou focado em construir uma base sólida em **desenvolvimento web e
 ### Front-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### Ferramentas
@@ -68,18 +68,7 @@ Atualmente estou focado em construir uma base sólida em **desenvolvimento web e
 ## 📚 Atualmente estudando
 
 - JavaScript
-- TypeScript
 - Node.js
-- APIs REST
 - Desenvolvimento Full Stack
 - Boas práticas de programação
 - Git e GitHub
-
----
-
-
-<div align="center">
-
-### 💡 "Sempre aprendendo, sempre construindo."
-
-</div>
