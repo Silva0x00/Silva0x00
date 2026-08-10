@@ -59,7 +59,7 @@ Busco transformar meus conhecimentos em projetos práticos, evoluindo continuame
 
 | Projeto | Descrição | Tecnologias |
 |:---:|:---|:---:|
-| **NEXUSGG** | | HTML • CSS • JS |
+| **NEXUSGG** |E-commerce gamer desenvolvido para praticar HTML, CSS e JavaScript.| HTML • CSS • JS |
 
 </div>
 
