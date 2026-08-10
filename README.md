@@ -5,10 +5,10 @@
 ### 💻 Software Engineering Student • Full Stack Developer
 
 <p>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Silva0x00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO">
+  <a href="https://www.linkedin.com/in/felipesilva-ti/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
