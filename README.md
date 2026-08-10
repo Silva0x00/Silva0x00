@@ -59,7 +59,7 @@ Busco transformar meus conhecimentos em projetos práticos, evoluindo continuame
 
 | Projeto | Descrição | Tecnologias |
 |:---:|:---|:---:|
-| **NEXUSGG** |E-commerce gamer desenvolvido para praticar desenvolvimento web, integração entre front-end e back-end e gerenciamento de dados com PHP e MySQL.| HTML • CSS • JavaScript • PHP • MySQL |
+| **NEXUSGG** |Projeto de e-commerce gamer desenvolvido como prática de desenvolvimento web, utilizando HTML, CSS e JavaScript no front-end, PHP no back-end e MySQL para gerenciamento de dados| HTML • CSS • JavaScript • PHP • MySQL |
 
 </div>
 
